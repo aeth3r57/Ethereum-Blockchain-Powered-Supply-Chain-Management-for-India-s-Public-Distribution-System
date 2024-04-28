@@ -1,0 +1,19 @@
+iframe{
+  display:none;
+}
+
+.stock-segment {
+    background-color: #f5f5f5; /* Light gray background for the stock segment */
+    padding: 20px;
+    margin-right: 10px; /* Add margin to separate the two segments */
+  }
+  
+  .form-segment {
+    background-color: #fff; /* White background for the form segment */
+    padding: 20px;
+  }
+  
+  .form-segment form {
+    max-width: 300px; /* Set a maximum width for the form */
+    margin: 0 auto; /* Center the form horizontally */
+  }
