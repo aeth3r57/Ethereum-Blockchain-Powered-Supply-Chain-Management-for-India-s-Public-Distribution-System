@@ -12,7 +12,7 @@ truffle init
 Update truffle-config.js: Modify the truffle-config.js file in your project directory to specify your network configurations (e.g., development, testnet, mainnet).
 
 Compile your contracts: Run the following command to compile your Solidity contracts:
-truffle conpile
+truffle compile
 
 Migrate your contracts: Run the migration script to deploy your contracts to the specified network. If you're deploying to the development network, you can simply run:
 truffle migrate
