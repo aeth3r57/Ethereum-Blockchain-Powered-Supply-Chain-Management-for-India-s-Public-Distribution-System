@@ -18,5 +18,7 @@ truffle compile
 Migrate your contracts: Run the migration script to deploy your contracts to the specified network. If you're deploying to the development network, you can simply run:
 truffle migrate
 
+Connect your Metamask wallet to your Smart Contract: Consider any 4 accounts from Ganache & import those accounts into Metamask by copying their private key.
+
 Interact with your contracts: After deploying, you can interact with your contracts using Truffle's console or by writing scripts that utilize the web3.js library.
 
